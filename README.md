@@ -1,5 +1,5 @@
 ## Introduction
-HinoCar Manager
+Trung Nguyen
 ## Ecosystem
 
 | Project               | Status                                                       | Description                                             |
