@@ -2,7 +2,7 @@
   "name": "build-vuejs-source",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "Bang",
+  "author": "Trung Nguyen",
   "private": true,
   "scripts": {
     "start": "webpack serve --config build/webpack.dev.js",
