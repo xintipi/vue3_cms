@@ -1,0 +1,28 @@
+.ant-notification-notice {
+  line-height: 1;
+
+  .ant-notification-notice-message {
+    line-height: 1;
+    margin-bottom: 0;
+  }
+
+  &.successfully {
+    background-color: $color-green-7;
+
+    .ant-notification-notice-message {
+      color: $color-grey-100;
+    }
+  }
+
+  &.error {
+    background-color: $color-additional-red-6;
+
+    .ant-notification-notice-message {
+      color: $color-grey-100;
+    }
+  }
+
+  .ant-notification-close-icon svg {
+    color: $color-grey-100;
+  }
+}
